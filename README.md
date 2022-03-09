@@ -7,4 +7,4 @@ VNA V2
 
 - Firmware Added
 - Windows working build added
-- firmware used bak
+- firmware used bakup
